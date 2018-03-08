@@ -26,12 +26,22 @@ nav {position: relative;}
 
 .toggle {
     display: block;
+    position: absolute;
     padding: 10px 20px;
     background-color: #2f2c2b;
     text-align: right;
     box-sizing: border-box;
     font-size: 30px;
     color: white;
+}
+
+.logo-mobile {
+    display: block;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    top: 0;
+    left: 25%;
 }
 
 .logo {display: none;}
@@ -52,7 +62,7 @@ ul li {
 
 ul li:hover {
     cursor: pointer;
-    background-color: #f9004b;
+    background-color: #f42563;
 }
 
 ul li a {
@@ -98,7 +108,7 @@ ul li a:after {
     position: relative;
     bottom: 0;
     left: 0;
-    height: 240px;
+    height: 210px;
     width: 100%;
     overflow: hidden;
     background-color: #86766e;
@@ -110,7 +120,7 @@ ul li a:after {
     height: 100%;
     background: rgba(0, 0, 0, 0.4);
     width: 100%;
-    padding: 1em;
+    padding: 0.2em;
     text-align: center;
     font-size: 18px;
     color: white;
@@ -159,11 +169,6 @@ ul li a:after {
     width: 50px;
     height: 50px;
     margin: 20px 0;
-}
-
-
-.logo-mobile {
-    display: none;
 }
 
 .questions {
@@ -257,6 +262,10 @@ footer .copyright {
         height: 70px;
     }
 
+    .logo-mobile {
+        display: none;
+    }
+
     .menu-links {
         grid-column: 2/3;
     }
@@ -297,6 +306,7 @@ footer .copyright {
         grid-template-columns: 3fr 2fr;
         grid-template-rows: 1fr;
         justify-items: center;
+        background-color: #f9f3f3;
     }
 
     .product-2, .product-4 {
@@ -304,6 +314,7 @@ footer .copyright {
         grid-template-columns: 2fr 3fr;
         grid-template-rows: 1fr;
         justify-items: center;
+        background-color: #fff;
     }
 
     .product-about {
@@ -329,7 +340,7 @@ footer .copyright {
     }
 
     .video-container {
-        height: 430px;
+height: 430px;
     }
 
     .video-container h1 {
@@ -338,6 +349,10 @@ footer .copyright {
 
     .video-container h3 {
         padding: 0 50px;
+    }
+
+    .video-container filter {
+        padding: 1em;
     }
 
     .box-icons {
