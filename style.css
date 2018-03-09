@@ -3,6 +3,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
+
 h1 {font-size: 40px;}
 h2 {font-size: 24px;}
 h3 {font-size: 16px;}
@@ -37,11 +38,11 @@ nav {position: relative;}
 
 .logo-mobile {
     display: block;
-    height: 50px;
-    width: 200px;
     position: relative;
     top: 0;
     left: 25%;
+    height: 50px;
+    width: 200px;
 }
 
 .logo {display: none;}
@@ -98,11 +99,7 @@ ul li a:after {
 
 .product-about h2 {margin-bottom: 20px;}
 
-.img {width: 100%;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
-
 .video-container {
-    position: fixed;
     display: grid;
     justify-items: center;
     position: relative;
@@ -340,7 +337,7 @@ footer .copyright {
     }
 
     .img {
-        height: 400px;
+        height: 100%;
         width: 100%;
     }
 
