@@ -318,12 +318,10 @@ footer .copyright {
 
     .product-2, .product-4 {
         display: grid;
-        grid-template-columns: 4fr 3fr;
+        grid-template-columns: 3fr 4fr;
         grid-template-rows: 1fr;
         justify-items: center;
         background-color: #fff;
-        height: 622px;
-        width: auto;
     }
 
     .product-about {
