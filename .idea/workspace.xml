@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a00eb510-4f48-4e69-8f13-8d2f0f84c21f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,8 +38,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="629">
-                  <caret line="320" column="36" lean-forward="false" selection-start-line="320" selection-start-column="36" selection-end-line="320" selection-end-column="36" />
+                <state relative-caret-position="204">
+                  <caret line="295" column="22" lean-forward="true" selection-start-line="295" selection-start-column="22" selection-end-line="295" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -258,7 +257,7 @@
       <workItem from="1520319744204" duration="16373000" />
       <workItem from="1521461531001" duration="6047000" />
       <workItem from="1522140476426" duration="3165000" />
-      <workItem from="1522167195896" duration="240000" />
+      <workItem from="1522167195896" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="upload website">
       <created>1520276007976</created>
@@ -330,14 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522152053662</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="img changed">
+      <created>1522167445938</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522167445938</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87298000" />
+    <option name="totallyTimeSpent" value="87722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1032" y="-8" width="1040" height="784" extended-state="6" />
+    <frame x="-1032" y="-8" width="1040" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.099609375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -560,14 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="320" column="36" lean-forward="false" selection-start-line="320" selection-start-column="36" selection-end-line="320" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -575,6 +573,14 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="295" column="22" lean-forward="true" selection-start-line="295" selection-start-column="22" selection-end-line="295" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
